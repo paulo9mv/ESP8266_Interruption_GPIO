@@ -1,3 +1,8 @@
+/*
+	Code developed to Embedded Systems Course at UFMT
+	Contributors: Paulo Viana, Elimar Abreu, William Mateus, Gustavo Caleman
+*/
+
 #include "ets_sys.h"
 #include "osapi.h"
 #include "gpio.h"
